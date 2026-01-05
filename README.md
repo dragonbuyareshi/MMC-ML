@@ -1,4 +1,4 @@
-# Complete ML Project Workflow
+# Complete ML/DL Project Workflow
 ## 1. Problem Definition & Planning
 - **Define the Objective**: Start by clearly articulating what you want to predict or discover. Is this a classification problem (predicting categories), regression (predicting continuous values), clustering (finding groups), or something else?
 - **Success Metrics**: Establish how you'll measure success. For classification, this might be accuracy, precision, recall, or F1-score. For regression, consider RMSE, MAE, or R². For business applications, define the ROI or cost-benefit metrics.
